@@ -1,0 +1,14 @@
+/* .container{
+    width: 30%; !important;
+    min-height: 504px;
+    
+} */
+/***************** SECTION *****************/
+div.section-pai{
+    display: flex;
+    flex-direction: row;
+}
+div.section-right-article{  
+    /* background-color: rgb(241, 241, 241); */
+    width: 70%;
+}
